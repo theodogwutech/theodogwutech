@@ -3,6 +3,8 @@
 ## About Me
 I'm a passionate and creative Software Engineer with expertise in a variety of technologies. My journey in the tech world revolves around building robust, scalable, and user-centric solutions. I'm driven by a love for Technology Leadership, Software Engineering, and Continuous Improvement.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=valfenix&theme=great-gatsby&hide_border=true&border_radius=9.9)](https://git.io/streak-stats)
+
 ## 🚀 Tech Stacks
 
 ### Development
