@@ -19,6 +19,11 @@ I'm a passionate and creative Software Engineer with expertise in a variety of t
 ### 🥇 My Badge Board
 [![An image of @valfenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/valfenix)](https://holopin.io/@valfenix)
 
+
+### 🕒 WakaTime Stats
+
+[![Valentine's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=valfenix)](https://github.com/anmol098/waka-readme-stats)
+
 ## 🚀 Tech Stacks
 
 ### Development
