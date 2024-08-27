@@ -22,3 +22,7 @@ jobs:
           SHOW_EDITORS: "true"       # Optional: Show editors used
           SHOW_OS: "true"            # Optional: Show Operating System used
           SHOW_PROJECTS: "true"      # Optional: Show most used projects
+          SHOW_UPDATED_DATE: "true"
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_LINES_OF_CODE: "true"
+          
