@@ -20,6 +20,15 @@ I'm a passionate and creative Software Engineer with expertise in a variety of t
 [![An image of @valfenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/valfenix)](https://holopin.io/@valfenix)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   34 hrs 24 mins  ███████████████████████▓░   95.23 %
+CSS          41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Bash         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+```
+
 <!--END_SECTION:waka-->
 
 
