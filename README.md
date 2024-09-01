@@ -1,6 +1,6 @@
 
     
-![Profile Views](https://komarev.com/ghpvc/?username=valfenix&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=theodogwutech&color=blue)
 
 # Hi there! 👋 I'm Valentine 
 I'm a passionate and creative Software Engineer with expertise in a variety of technologies. My journey in the tech world revolves around building robust, scalable, and user-centric solutions. I'm driven by a love for Technology Leadership, Software Engineering, and Continuous Improvement.
@@ -19,7 +19,7 @@ I'm a passionate and creative Software Engineer with expertise in a variety of t
 
 | Stats            | Trophy               |
 |-----------------------|-------------------|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=valfenix&theme=great-gatsby&hide_border=true&border_radius=9.9)](https://git.io/streak-stats) | [![trophy](https://github-profile-trophy.vercel.app/?username=valfenix&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=theodogwutech&theme=great-gatsby&hide_border=true&border_radius=9.9)](https://git.io/streak-stats) | [![trophy](https://github-profile-trophy.vercel.app/?username=theodogwutech&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy) |
 
 ### 🥇 My Badge Board
 [![An image of @valfenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/valfenix)](https://holopin.io/@valfenix)
