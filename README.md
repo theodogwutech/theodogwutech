@@ -30,13 +30,13 @@ I'm a passionate and creative Software Engineer with expertise in a variety of t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-TypeScript   34 hrs 40 mins  ████████████████████████▓   99.09 %
-Bash         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript   33 hrs 59 mins  ████████████████████████▓   98.83 %
+Bash         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TSConfig     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
