@@ -30,13 +30,13 @@ I'm a passionate and creative Software Engineer with expertise in a variety of t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-TypeScript   33 hrs 42 mins        ██████████████▒░░░░░░░░░░   57.44 %
-Markdown     9 hrs 54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-JavaScript   7 hrs 8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Other        2 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Text         1 hr 13 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   37 hrs                ███████████████▒░░░░░░░░░   61.35 %
+Markdown     12 hrs 33 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+JavaScript   3 hrs 11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Other        2 hrs 39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Text         1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
